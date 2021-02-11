@@ -6,7 +6,7 @@
 
 * ## [Code 301 - Intermediate Software Development](https://www.google.com)
 
-* ## [Code 401 - Advanced Software Development]* (https://www.google.com)
+* ## [Code 401 - Advanced Software Development](https://www.google.com)
 
 
 ______
