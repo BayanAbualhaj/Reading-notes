@@ -12,3 +12,9 @@
 ______
 
 ### Description 
+
+***this page **Reading Notes** is the main page for all the reading we will face in the course***
+
+*You will find a link for each class inside the provided links the third and fourth link will lead you to the **google.com** because I didn't provide the original links for the repos that I created for them*
+
+
