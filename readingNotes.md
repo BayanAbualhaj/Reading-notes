@@ -4,7 +4,6 @@
 
 
 | Topic          |   Link                                                                          | 
-|________________|__________________________________________________________________________       |
 |Growth mind set |[ Click Here   ](https://bayanabualhaj.github.io/Reading-notes102/README2)       | 
 |  Read 01       |[ Click Here   ](https://bayanabualhaj.github.io/Reading-notes102/read01)        |
 |  Read 02       |[ Click Here   ](https://bayanabualhaj.github.io/Reading-notes102/read02)        |  
@@ -22,7 +21,6 @@
 
 
 | Topic          |   Link                                                                             | 
-|________________|__________________________________________________________________________________  |
 |  Read 01       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes201/class-01)        |
 |  Read 02       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes201/class-02)        |  
 |  Read 03       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes201/class-03)        |
@@ -45,7 +43,6 @@
 
 
 | Topic          |   Link                                                                             | 
-|________________|__________________________________________________________________________________  |
 |  Read 01       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class01)         |
 |  Read 02       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class02)         |  
 |  Read 03       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class03)         |
