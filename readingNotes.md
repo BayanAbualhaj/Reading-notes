@@ -56,6 +56,9 @@
 |  Read 11       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class11)         |
 |  Read 12       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class12)         |
 |  Read 13       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class13)         |
+|  Read 14a      |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class14a)        |
+|  Read 14b      |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class14b)        |
+|  Read 15       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class15)         |
 
 
 
