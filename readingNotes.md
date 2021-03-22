@@ -65,3 +65,5 @@
 * ## [Code 401 - Advanced Software Development](https://www.google.com)
 
 
+| Topic          |   Link                                                                             | 
+|  Read 01       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class01)         |
