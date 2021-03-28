@@ -67,3 +67,12 @@
 
 | Topic          |   Link                                                                             | 
 |  Read 01       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class01)         |
+|  Read 02       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class02)         |
+|  Read 03       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class03)         |
+|  Read 04       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class04)         |
+|  Read 05       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class05)         |
+|  Read 06       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class06)         |
+|  Read 07       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class07)         |
+|  Read 08       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class08)         |
+|  Read 09       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class09)         |
+
