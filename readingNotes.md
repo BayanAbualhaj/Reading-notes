@@ -2,6 +2,9 @@
 
 * this site is about the reading assignments during the software development advance corse. here you are going to see for each cohort a table contain a link for each read, the link will lead you to the read to view it content.
 
+* every head line will lead you to it's own site and you can also visit it to discover the reads for each cohort **separately**.
+
+
 * ## [Code 102 - Intro to Software Development](https://bayanabualhaj.github.io/Reading-notes102/)
 
 
@@ -65,7 +68,7 @@ _____________________
 
 ____________________
 
-* ## [Code 401 - Advanced Software Development](https://www.google.com)
+* ## [Code 401 - Advanced Software Development](https://bayanabualhaj.github.io/reading-notes401/home)
 
 
 | Topic          |   Link                                                                             | 
