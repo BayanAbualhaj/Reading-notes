@@ -1,5 +1,7 @@
 # Reading Notes
 
+* this site is about the reading assignments during the software development advance corse. here you are going to see for each cohort a table contain a link for each read, the link will lead you to the read to view it content.
+
 * ## [Code 102 - Intro to Software Development](https://bayanabualhaj.github.io/Reading-notes102/)
 
 
@@ -15,7 +17,7 @@
 |  Read 08       |[ Click Here   ](https://bayanabualhaj.github.io/Reading-notes102/read08)        |
 
 
-
+________________
 
 * ## [Code 201 - Foundations of Software Development](https://bayanabualhaj.github.io/reading-notes201/code-201-reading-notes)
 
@@ -37,7 +39,7 @@
 |  Read 14-a     |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes201/class14a)        |
 |  Read 14-b     |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes201/class14b)        |
 
-
+_____________________
 
 * ## [Code 301 - Intermediate Software Development](https://bayanabualhaj.github.io/reading-notes301/home)
 
@@ -61,6 +63,7 @@
 |  Read 15       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes301/class15)         |
 
 
+____________________
 
 * ## [Code 401 - Advanced Software Development](https://www.google.com)
 
@@ -76,3 +79,4 @@
 |  Read 08       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class08)         |
 |  Read 09       |[ Click  here   ](https://bayanabualhaj.github.io/reading-notes401/class09)         |
 
+**P.S** : *401 table links will be updated*
